@@ -1,2 +1,0 @@
-/home/haoxiang/Desktop/projects/cambridge/ib/autonomous-trucking/CMakeFiles/rebuild_cache.dir
-/home/haoxiang/Desktop/projects/cambridge/ib/autonomous-trucking/CMakeFiles/edit_cache.dir
