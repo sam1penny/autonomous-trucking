@@ -1,6 +1,9 @@
 # autonomous trucking
 
-To build
+To build:
+Firstly, run once:
+`cd build && cmake build .. && cd ../`
+Then to build, run:
 `cmake --build build`
 
 To test
